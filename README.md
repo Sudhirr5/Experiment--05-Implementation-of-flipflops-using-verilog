@@ -1,7 +1,12 @@
-# Experiment--05-Implementation-of-flipflops-using-verilog
-### AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+# Experiment 05-Implementation-of-flipflops-using-verilog
+### Name: R. SUDHIR KUMAR
+### register number: 212223230221
+### AIM: 
+To implement all the flipflops using verilog and validating their functionality using their functional tables
+### HARDWARE REQUIRED:  
+– PC, Cyclone II , USB flasher
+### SOFTWARE REQUIRED:   
+Quartus prime
 ### THEORY 
 SR Flip-Flop
 SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
@@ -107,11 +112,37 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ### PROGRAM 
-/*
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+SR flipflops
+
+![Screenshot 2023-07-27 135705](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/93bc2b37-f51a-4d2b-ac83-3f9276701777)
+
+
+JK flipflops
+
+![Screenshot 2023-07-27 141435](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/0c46860e-7a49-4d9b-9a85-6d73adb493fb)
+
+
+
+
+
+T flipflops
+
+![Screenshot 2023-07-27 140952](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/b44b8eee-0b12-4ab6-83b0-7a10735d3aff)
+
+
+
+D flipflops
+
+![Screenshot 2023-07-27 141309](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/7568fd98-bacb-45c1-9c8f-492e9d1dffef)
+
+
+
+
+
+
+
+
 
 
 
@@ -119,6 +150,32 @@ RegisterNumber:
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
+
+SR flipflops
+
+
+![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/cf479e11-6372-40b0-bf70-350efce4a947)
+
+JK flipflops
+
+![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/94569234-1084-4111-a04c-7ec27dc31e66)
+
+
+
+T flipflops
+
+![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/f58708d6-0aec-40c8-b7dc-3d9a810255e8)
+
+
+
+D flipflops
+
+
+ ![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/d7b92ec2-017e-453f-87cf-f0d769705ff9)
+
+
+
+
 
 
 
@@ -130,6 +187,30 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+SR flipflops
+
+
+![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/e69f32af-413b-4bf6-85da-131dc952353a)
+
+JK flipflops
+
+![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/8c1a0889-dd4c-41a4-b759-8a14cda6ba96)
+
+
+
+T flipflops
+
+![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/4f7445c7-8ff5-43bb-b2b1-55d87e5c0d99)
+
+
+
+
+D flipflops
+
+![image](https://github.com/Tomfx03/Experiment--05-Implementation-of-flipflops-using-verilog/assets/101335832/79e8200e-f3a4-4c97-a7d5-902e8281a842)
+
+
+
 
 
 
@@ -138,3 +219,5 @@ RegisterNumber:
 
 
 ### RESULTS 
+
+ To  desgin all the flipflops using verilog and validating their functionality using their functional tables.
