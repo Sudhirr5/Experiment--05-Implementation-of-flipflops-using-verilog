@@ -1,4 +1,4 @@
-# Experiment 05-Implementation-of-flipflops-using-verilog
+# Implementation of flipflops using verilog
 ### Name: R. SUDHIR KUMAR
 ### register number: 212223230221
 ### AIM: 
