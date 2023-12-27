@@ -107,13 +107,12 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* 
-Step:1 Open Quartus II and select new project and choose the file location. 
+
+#### Step:1 Open Quartus II and select new project and choose the file location. 
 Step:2 Module Declaration. Module should have the file name. 
 Step:3 Declare Inputs and outputs. 
 Step:4 Use assign declaration and wire to define the functionality of logic circuits. 
 Step:5 End the program with endmodule. Step:6 Run the program and choose RTL viewer to get RTL realization. 
-*/
 
 
 
